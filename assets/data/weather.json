@@ -1,0 +1,14 @@
+{
+  "weathers": {
+    "Clear Sky": "000",
+    "Cloudy": "100",
+    "Misty": "010",
+    "Rainbow": "011",
+    "Stormy": "001"
+  },
+  "duration": {
+    "15 Minutes": "01001111",
+    "1 Hour": "10000001",
+    "1 Day": "11000001"
+  }
+}

@@ -1,0 +1,2078 @@
+{
+  "Arctic Bunnycomb": {
+    "pinata": "000000110000",
+    "home": "001001010011",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Blue": "0010",
+      "Yellow (In-Game)": "0011",
+      "Orange": "0100",
+      "Pink (In-Game)": "0101",
+      "Purple": "0110",
+      "Light Blue": "0111",
+      "Pink": "1000",
+      "Green (In-Game)": "1001",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Pointed Tail": "01",
+      "Six Ears": "10",
+      "Horns": "11"
+    }
+  },
+  "Arctic Hootyfruity": {
+    "pinata": "000000110001",
+    "home": "001001001000",
+    "variants": {
+      "Mint Green": "0001",
+      "Vibrant Blue": "0010",
+      "Green (In-Game)": "0011",
+      "Bright Blue": "0100",
+      "Pink (In-Game)": "0101",
+      "Orange": "0110",
+      "Orange (In-Game)": "0111",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Tail Feathers": "01",
+      "Head Feathers": "10",
+      "Two Antennae": "11"
+    }
+  },
+  "Arctic Juicygoose": {
+    "pinata": "000000110010",
+    "home": "001000100111",
+    "variants": {
+      "Mint Green": "0001",
+      "Yellow (In-Game)": "0010",
+      "Orange (In-Game)": "0011",
+      "Pink": "0100",
+      "Purple": "0101",
+      "Bright Blue": "0110",
+      "Green (In-Game)": "0111",
+      "Solid Orange": "1000",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Crest": "01",
+      "Neck Frill": "10",
+      "Wide Bill": "11"
+    }
+  },
+  "Arctic Pretztail": {
+    "pinata": "000000101111",
+    "home": "001000011110",
+    "variants": {
+      "Mint Green": "0001",
+      "Pink (In-Game)": "0011",
+      "Light Green": "0100",
+      "Green (In-Game)": "0101",
+      "Blue (In-Game)": "0110",
+      "Solid Red": "0111",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Horns": "01",
+      "Split Ears": "10",
+      "Tail Bumps": "11"
+    }
+  },
+  "Arctic Tigermisu": {
+    "pinata": "000000110011",
+    "home": "001001101011",
+    "variants": {
+      "Mint Green": "0001",
+      "Yellow (In-Game)": "0010",
+      "White (In-Game)": "0011",
+      "Pink (In-Game)": "0100",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Fangs": "01",
+      "Ball on Tail": "10",
+      "Mane": "11"
+    }
+  },
+  "Arocknid": {
+    "pinata": "000001110001",
+    "sweet": "011011000101",
+    "home": "001001100100",
+    "egg": "000100100100",
+    "variants": {
+      "Mint Green": "0001",
+      "Yellow Red": "0010",
+      "Orange (In-Game)": "0011",
+      "Pink (In-Game)": "0100",
+      "Pink Yellow": "0101",
+      "Blue (In-Game)": "0110",
+      "Green Yellow": "0111",
+      "Solid Green": "1000",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Head Horns": "01",
+      "Mouth Horns": "10",
+      "Third Eye": "11"
+    }
+  },
+  "Badgesicle": {
+    "pinata": "000000000101",
+    "sweet": "011010001000",
+    "home": "000111111000",
+    "egg": "000010111010",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Purple": "0010",
+      "Red (In-Game)": "0011",
+      "Yellow (In-Game)": "0100",
+      "Blue (In-Game)": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Long Ears": "01",
+      "Big Tail": "10",
+      "Yellow Stripe": "11"
+    }
+  },
+  "Barkbark": {
+    "pinata": "000000011110",
+    "sweet": "011010011100",
+    "home": "001000010001",
+    "egg": "000011010001",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Blue": "0010",
+      "Pink (In-Game)": "0011",
+      "Light Green (In-Game)": "0100",
+      "Pink": "0101",
+      "Green (In-Game)": "0110",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Curled Tail": "01",
+      "Large Nose": "10",
+      "Big Ears": "11"
+    }
+  },
+  "Bispotti": {
+    "pinata": "000001000001",
+    "sweet": "011011101100",
+    "home": "001000110011",
+    "egg": "000011110110",
+    "variants": {
+      "Mint Green": "0001",
+      "Blue (In-Game)": "0010",
+      "Green (In-Game)": "0011",
+      "Pink (In-Game)": "0100",
+      "Pink": "0101",
+      "Red": "0110",
+      "Blue": "0111",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Curled Feelers": "01",
+      "Wing Bumps": "10",
+      "Face Frills": "11"
+    }
+  },
+  "Black Flutterscotch": {
+    "pinata": "000000001010",
+    "sweet": "011010001101",
+    "home": "000111111111",
+    "variants": {
+      "Mint Green": "0001",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Curly Nose": "01",
+      "Tail": "10",
+      "Small Wings": "11"
+    }
+  },
+  "Blue Flutterscotch": {
+    "pinata": "000000001100",
+    "sweet": "011010001111",
+    "home": "000111111111",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Light Blue": "0010",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Curly Nose": "01",
+      "Tail": "10",
+      "Small Wings": "11"
+    }
+  },
+  "Bonboon": {
+    "pinata": "000001001001",
+    "sweet": "011010110001",
+    "home": "001000111100",
+    "egg": "000011111100",
+    "variants": {
+      "Mint Green": "0001",
+      "White (In-Game)": "0010",
+      "Blue (In-Game)": "0011",
+      "Orange (In-Game)": "0100",
+      "Solid Purple": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Big Nose": "01",
+      "Fluffy Tail": "10",
+      "Pointy Head": "11"
+    }
+  },
+  "Brown Flutterscotch": {
+    "pinata": "000000001110",
+    "sweet": "011010010001",
+    "home": "000111111111",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid White": "0010",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Curly Nose": "01",
+      "Tail": "10",
+      "Small Wings": "11"
+    }
+  },
+  "Bunnycomb": {
+    "pinata": "000001100000",
+    "sweet": "011010111111",
+    "home": "001001010011",
+    "egg": "000100010011",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Blue": "0010",
+      "Orange (In-Game)": "0011",
+      "Peach": "0100",
+      "Pink (In-Game)": "0101",
+      "Purple": "0110",
+      "Blue Purple": "0111",
+      "Bright Pink": "1000",
+      "Green (In-Game)": "1001",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Pointed Tail": "01",
+      "Six Ears": "10",
+      "Horns": "11"
+    }
+  },
+  "Buzzenge": {
+    "pinata": "000000010000",
+    "sweet": "011010010011",
+    "home": "001000000011",
+    "egg": "000011000100",
+    "variants": {
+      "Mint Green": "0001",
+      "Pink (In-Game)": "0010",
+      "Blue (In-Game)": "0011",
+      "Yellow (In-Game)": "0100",
+      "Solid Brown Tan": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Large Crest": "01",
+      "Hooked Beak": "10",
+      "Feather Collar": "11"
+    }
+  },
+  "Buzzlegum": {
+    "pinata": "000000001001",
+    "sweet": "011010001100",
+    "home": "000111111100",
+    "egg": "000010111110",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Yellow": "0010",
+      "Yellow": "0011",
+      "Orange (In-Game)": "0100",
+      "Pink (In-Game)": "0101",
+      "Blue (In-Game)": "0110",
+      "Blue": "0111",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Ears": "01",
+      "Eyelashes": "10",
+      "Body Spikes": "11"
+    }
+  },
+  "Camello": {
+    "pinata": "000000010111",
+    "sweet": "011011100010",
+    "home": "001000001010",
+    "egg": "000011000101",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Red": "0010",
+      "Pink (In-Game)": "0011",
+      "Orange (In-Game)": "0100",
+      "Blue (In-Game)": "0101",
+      "Blue": "0110",
+      "Purple": "0111",
+      "Orange": "1000",
+      "Pink": "1001",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Chin Wattle": "01",
+      "Taller Hump": "10",
+      "Floppy Ears": "11"
+    }
+  },
+  "Candary": {
+    "pinata": "000000010010",
+    "sweet": "011010010100",
+    "home": "001000000101",
+    "egg": "000011000110",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Yellow": "0010",
+      "Blue (In-Game)": "0011",
+      "Pink (In-Game)": "0100",
+      "Green (In-Game)": "0101",
+      "Orange": "0110",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Curved Beak": "01",
+      "Head Feathers": "10",
+      "Tail Fan": "11"
+    }
+  },
+  "Cherrapin": {
+    "pinata": "000001111011",
+    "sweet": "011011110011",
+    "home": "001001101100",
+    "egg": "000100110001",
+    "variants": {
+      "Mint Green": "0001",
+      "Blue (In-Game)": "0010",
+      "Pink": "0011",
+      "Yellow (In-Game)": "0100",
+      "Green (In-Game)": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Horn": "01",
+      "Shell Spikes": "10",
+      "Shell Frill": "11"
+    }
+  },
+  "Chewnicorn": {
+    "pinata": "000001111110",
+    "sweet": "011011001000",
+    "home": "001001110001",
+    "egg": "000100110010",
+    "variants": {
+      "Mint Green": "0001",
+      "Blue (In-Game)": "0010",
+      "Pink (In-Game)": "0011",
+      "Yellow (In-Game)": "0100",
+      "Dark Blue": "0101",
+      "Solid Blue": "0111",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Curled Horn": "01",
+      "Extra Horns": "10",
+      "Long Ears": "11"
+    }
+  },
+  "Chippopotamus": {
+    "pinata": "000000111011",
+    "sweet": "011010101101",
+    "home": "001000101110",
+    "egg": "000011101110",
+    "variants": {
+      "Mint Green": "0001",
+      "Pink (In-Game)": "0010",
+      "Green (In-Game)": "0011",
+      "Blue (In-Game)": "0100",
+      "Solid Blue": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Pointy Ears": "01",
+      "Nose Bumps": "10",
+      "Longer Tail": "11"
+    }
+  },
+  "Choclodocus": {
+    "pinata": "000000011101",
+    "sweet": "011011111000",
+    "egg": "000011010000",
+    "variants": {
+    },
+    "wildcards": {
+    }
+  },
+  "Chocstrich": {
+    "pinata": "000001010100",
+    "sweet": "011011100100",
+    "home": "001001000111",
+    "egg": "000100000111",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Red": "0010",
+      "Orange (In-Game)": "0011",
+      "Pink (In-Game)": "0100",
+      "Blue (In-Game)": "0101",
+      "Orange": "0110",
+      "Yellow": "0111",
+      "Yellow Green": "1000",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Neck Feathers": "01",
+      "Tail Feathers": "10",
+      "Crest": "11"
+    }
+  },
+  "Cinnamonkey": {
+    "pinata": "000001001101",
+    "sweet": "011010110011",
+    "home": "001001000000",
+    "egg": "000100000000",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Blue": "0010",
+      "Purple (In-Game)": "0011",
+      "Pale Blue Yellow": "0100",
+      "Pink (In-Game)": "0101",
+      "Orange Pink": "0110",
+      "Red (In-Game)": "0111",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Big Ears": "01",
+      "Tail Cylinder": "10",
+      "Three Tails": "11"
+    }
+  },
+  "Cluckles": {
+    "pinata": "000000010110",
+    "sweet": "011010010111",
+    "home": "001000001001",
+    "egg": "000011001010",
+    "variants": {
+      "Mint Green": "0001",
+      "Pink (In-Game)": "0010",
+      "Blue (In-Game)": "0011",
+      "Green (In-Game)": "0100",
+      "Orange": "0101",
+      "Solid Red": "0110",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Chin Wattle": "01",
+      "Head Wattles": "10",
+      "Tail Feathers": "11"
+    }
+  },
+  "Cocoadile": {
+    "pinata": "000000011010",
+    "sweet": "011010011001",
+    "home": "001000001101",
+    "egg": "000011001101",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Green": "0010",
+      "Yellow (In-Game)": "0011",
+      "Dark Pink": "0100",
+      "Pink": "0101",
+      "Pink (In-Game)": "0110",
+      "Yellow": "0111",
+      "Blue (In-Game)": "1000",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Back Ridges": "01",
+      "Pointy Ears": "10",
+      "Arrow Tail": "11"
+    }
+  },
+  "Crowla": {
+    "pinata": "000000011011",
+    "sweet": "011010011010",
+    "home": "001000001110",
+    "egg": "000011001110",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Purple": "0010",
+      "Blue (In-Game)": "0011",
+      "Pink (In-Game)": "0100",
+      "Orange (In-Game)": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Head Feather": "01",
+      "Face Feathers": "10",
+      "Large Beak": "11"
+    }
+  },
+  "Custacean": {
+    "pinata": "000000011001",
+    "sweet": "011011101010",
+    "home": "001000000110",
+    "egg": "000011001100",
+    "variants": {
+      "Mint Green": "0001",
+      "Green": "0010",
+      "Green (In-Game)": "0011",
+      "Purple (In-Game)": "0100",
+      "Pink": "0101",
+      "Orange (In-Game)": "0110",
+      "Orange": "0111",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Back Spikes": "01",
+      "Claw Spikes": "10",
+      "Eyelashes": "11"
+    }
+  },
+  "Desert Arocknid": {
+    "pinata": "000000100011",
+    "home": "001001100100",
+    "variants": {
+      "Mint Green": "0001",
+      "Yellow": "0010",
+      "Orange (In-Game)": "0011",
+      "Pink (In-Game)": "0100",
+      "Pink": "0101",
+      "Blue (In-Game)": "0110",
+      "Green": "0111",
+      "Solid Green": "1000",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Head Horns": "01",
+      "Mouth Horns": "10",
+      "Third Eye": "11"
+    }
+  },
+  "Desert Buzzenge": {
+    "pinata": "000000100101",
+    "home": "001000000011",
+    "variants": {
+      "Mint Green": "0001",
+      "Pink (In-Game)": "0010",
+      "Blue (In-Game)": "0011",
+      "Yellow (In-Game)": "0100",
+      "Solid Brown": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Large Crest": "01",
+      "Hooked Beak": "10",
+      "Feather Collar": "11"
+    }
+  },
+  "Desert Limeoceros": {
+    "pinata": "000000101001",
+    "home": "001001011001",
+    "variants": {
+      "Mint Green": "0001",
+      "Blue (In-Game)": "0010",
+      "Pink (In-Game)": "0011",
+      "Gold (In-Game)": "0100",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Frill": "01",
+      "Second Horn": "10",
+      "Curly Horn": "11"
+    }
+  },
+  "Desert Raisant": {
+    "pinata": "000000011111",
+    "home": "000111110110",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Red": "0010",
+      "Blue (In-Game)": "0011",
+      "Pink (In-Game)": "0100",
+      "Yellow (In-Game)": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Curved Antennae": "01",
+      "Single Horn": "10",
+      "Ball on Antennae": "11"
+    }
+  },
+  "Desert Syrupent": {
+    "pinata": "000000000100",
+    "home": "001000101001",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Green": "0010",
+      "Gold (In-Game)": "0011",
+      "Orange": "0100",
+      "Pink (In-Game)": "0101",
+      "Blue (In-Game)": "0110",
+      "Aqua": "0111",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Head Frill": "01",
+      "Ball on Tail": "10",
+      "Neck Frill": "11"
+    }
+  },
+  "Doenut": {
+    "pinata": "000000011100",
+    "sweet": "011010011011",
+    "home": "001000001111",
+    "egg": "000011001111",
+    "variants": {
+      "Mint Green": "0001",
+      "Blue (In-Game)": "0010",
+      "Dark Pink": "0011",
+      "Orange (In-Game)": "0100",
+      "Green (In-Game)": "0101",
+      "Solid Yellow": "0110",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Straight Antlers": "01",
+      "Jaw Antlers": "10",
+      "Six Ears": "11"
+    }
+  },
+  "Dragonache": {
+    "pinata": "000000100000",
+    "sweet": "011010011101",
+    "egg": "000011010011",
+    "variants": {
+    },
+    "wildcards": {
+    }
+  },
+  "Dragumfly": {
+    "pinata": "000000100001",
+    "sweet": "011010011110",
+    "home": "001000010100",
+    "egg": "000011010100",
+    "variants": {
+      "Mint Green": "0001",
+      "Yellow Orange": "0010",
+      "Orange (In-Game)": "0011",
+      "Pink": "0100",
+      "Pale Blue Red": "0101",
+      "Blue (In-Game)": "0110",
+      "Green (In-Game)": "0111",
+      "Solid Green": "1000",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Curled Antennae": "01",
+      "Curved Horns": "10",
+      "Head Rod": "11"
+    }
+  },
+  "Eaglair": {
+    "pinata": "000000100100",
+    "sweet": "011010100000",
+    "home": "001000010111",
+    "egg": "000011010111",
+    "variants": {
+      "Mint Green": "0001",
+      "Yellow (In-Game)": "0010",
+      "Blue (In-Game)": "0011",
+      "White (In-Game)": "0100",
+      "Pink": "0101",
+      "Solid Red": "0110",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Hooked Beak": "01",
+      "Ear Tufts": "10",
+      "Feather Crown": "11"
+    }
+  },
+  "Elephanilla": {
+    "pinata": "000000100110",
+    "sweet": "011010100001",
+    "home": "001000011001",
+    "egg": "000011011001",
+    "variants": {
+      "Mint Green": "0001",
+      "Blue (In-Game)": "0010",
+      "Red (In-Game)": "0011",
+      "Yellow (In-Game)": "0100",
+      "Pale Blue": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Third Tusk": "01",
+      "Multiple Tusks": "10",
+      "Hooked Tusks": "11"
+    }
+  },
+  "Fizzlybear": {
+    "pinata": "000000000111",
+    "sweet": "011010001010",
+    "home": "000111111010",
+    "egg": "000010111100",
+    "variants": {
+      "Mint Green": "0001",
+      "Pink": "0010",
+      "Orange (In-Game)": "0011",
+      "Gold (In-Game)": "0100",
+      "Green (In-Game)": "0101",
+      "Solid Brown": "0110",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Large Tail": "01",
+      "Large Ears": "10",
+      "Extra Chin": "11"
+    }
+  },
+  "Flapyak": {
+    "pinata": "000010001000",
+    "sweet": "011011100001",
+    "home": "001001111011",
+    "egg": "000100111011",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Red": "0010",
+      "Blue (In-Game)": "0011",
+      "Red (In-Game)": "0100",
+      "Green (In-Game)": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Three Horns": "01",
+      "Hooked Horns": "10",
+      "Three Tails": "11"
+    }
+  },
+  "Fourheads": {
+    "pinata": "000000111110",
+    "sweet": "011010101111",
+    "home": "001000110000",
+    "egg": "000011110000",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Green": "0010",
+      "Yellow": "0011",
+      "Yellow Orange": "0100",
+      "Red": "0101",
+      "Pink Blue": "0110",
+      "Blue (In-Game)": "0111",
+      "Yellow (In-Game)": "1000",
+      "Pink (In-Game)": "1001",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Horns": "01",
+      "Frill": "10",
+      "Whiskers": "11"
+    }
+  },
+  "Fudgehog": {
+    "pinata": "000000111010",
+    "sweet": "011010101100",
+    "home": "001000101101",
+    "egg": "000011101101",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Orange": "0010",
+      "Blue (In-Game)": "0011",
+      "Green (In-Game)": "0100",
+      "Red (In-Game)": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Bumps": "01",
+      "Three Horns": "10",
+      "Ears": "11"
+    }
+  },
+  "Galagoogoo": {
+    "pinata": "000000001111",
+    "sweet": "011010010010",
+    "home": "001000000010",
+    "egg": "000011000011",
+    "variants": {
+      "Mint Green": "0001",
+      "Light Yellow (In-Game)": "0010",
+      "Pink Orange": "0011",
+      "Yellow Eyes": "0100",
+      "Light Purple (In-Game)": "0101",
+      "Green (In-Game)": "0110",
+      "Solid Pink (In-Game)": "0111",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Ball on Tail": "01",
+      "Curly Tail": "10",
+      "Big Ears": "11"
+    }
+  },
+  "Geckie": {
+    "pinata": "000000101101",
+    "sweet": "011010100111",
+    "home": "001000100000",
+    "egg": "000011100110",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Red": "0010",
+      "Orange (In-Game)": "0011",
+      "Pink (In-Game)": "0100",
+      "Blue (In-Game)": "0101",
+      "Pale Green": "0110",
+      "Orange": "0111",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Horns": "01",
+      "Neck Crest": "10",
+      "Tail Crest": "11"
+    }
+  },
+  "Goobaa": {
+    "pinata": "000001101100",
+    "sweet": "011011000011",
+    "home": "001001011111",
+    "egg": "000100011111",
+    "variants": {
+      "Mint Green": "0001",
+      "Blue (In-Game)": "0010",
+      "Black (In-Game)": "0011",
+      "Pink (In-Game)": "0100",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Curly Horns": "01",
+      "Fluffy Ears": "10",
+      "Fluffy Feet": "11"
+    }
+  },
+  "Green Flutterscotch": {
+    "pinata": "000000110111",
+    "sweet": "011010101011",
+    "home": "000111111111",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Green": "0010",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Curly Nose": "01",
+      "Tail": "10",
+      "Small Wings": "11"
+    }
+  },
+  "Hoghurt": {
+    "pinata": "000010000100",
+    "sweet": "011011110101",
+    "home": "001001110111",
+    "egg": "000100111001",
+    "variants": {
+      "Mint Green": "0001",
+      "Yellow (In-Game)": "0010",
+      "Black (In-Game)": "0011",
+      "Pink (In-Game)": "0100",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Horns": "01",
+      "Ball on Tail": "10",
+      "Mohawk": "11"
+    }
+  },
+  "Hootyfruity": {
+    "pinata": "000001010101",
+    "sweet": "011011101101",
+    "home": "001001001000",
+    "egg": "000100001000",
+    "variants": {
+      "Mint Green": "0001",
+      "Blue": "0010",
+      "Green (In-Game)": "0011",
+      "Light Blue": "0100",
+      "Pink (In-Game)": "0101",
+      "Orange": "0110",
+      "Orange (In-Game)": "0111",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Tail Feathers": "01",
+      "Head Feathers": "10",
+      "Two Antennae": "11"
+    }
+  },
+  "Horstachio": {
+    "pinata": "000000111100",
+    "sweet": "011010101110",
+    "home": "001000101111",
+    "egg": "000011101111",
+    "variants": {
+      "Mint Green": "0001",
+      "Green (In-Game)": "0010",
+      "Blue (In-Game)": "0011",
+      "Green Brown": "0100",
+      "Red (In-Game)": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Braided Tail": "01",
+      "Large Chin": "10",
+      "Mouth Pincers": "11"
+    }
+  },
+  "Jameleon": {
+    "pinata": "000000010101",
+    "sweet": "011010010110",
+    "home": "001000001000",
+    "egg": "000011001001",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Orange": "0010",
+      "Orange": "0011",
+      "Orange (In-Game)": "0100",
+      "Pink": "0101",
+      "White Pink (In-Game)": "0110",
+      "Blue (In-Game)": "0111",
+      "Blue Green": "1000",
+      "Pale Green": "1001",
+      "Solid Green": "1010",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Tail Curls": "01",
+      "Head Fans": "10",
+      "Long Ears": "11"
+    }
+  },
+  "Jeli": {
+    "pinata": "000010000110",
+    "sweet": "011011100000",
+    "home": "001001111001",
+    "egg": "000100111110",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Red": "0010",
+      "Pink (In-Game)": "0011",
+      "Yellow (In-Game)": "0100",
+      "Blue (In-Game)": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Long Ears": "01",
+      "Horns": "10",
+      "Comb": "11"
+    }
+  },
+  "Juicygoose": {
+    "pinata": "000000110100",
+    "sweet": "011010101001",
+    "home": "001000100111",
+    "egg": "000011100111",
+    "variants": {
+      "Mint Green": "0001",
+      "Yellow (In-Game)": "0010",
+      "Pink (In-Game)": "0011",
+      "Pink": "0100",
+      "Purple": "0101",
+      "Pale Blue": "0110",
+      "Green (In-Game)": "0111",
+      "Solid Orange": "1000",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Crest": "01",
+      "Neck Frill": "10",
+      "Wide Bill": "11"
+    }
+  },
+  "Kittyfloss": {
+    "pinata": "000000010100",
+    "sweet": "011010010101",
+    "home": "001000000111",
+    "egg": "000011001000",
+    "variants": {
+      "Mint Green": "0001",
+      "Orange": "0010",
+      "Pink (In-Game)": "0011",
+      "Pink Blue (In-Game)": "0100",
+      "Blue Pink (In-Game)": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Ball on Tail": "01",
+      "Face Bumps": "10",
+      "Rectangular Ears": "11"
+    }
+  },
+  "Lackatoad": {
+    "pinata": "000001011100",
+    "sweet": "011010111011",
+    "home": "001001001111",
+    "egg": "000100001111",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Purple": "0010",
+      "Blue (In-Game)": "0011",
+      "Yellow (In-Game)": "0100",
+      "Pink (In-Game)": "0101",
+      "Pale Blue": "0110",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Antennae": "01",
+      "Ears": "10",
+      "Webbed Feet": "11"
+    }
+  },
+  "Lemmoning": {
+    "pinata": "000000111111",
+    "sweet": "011011011010",
+    "home": "001000110010",
+    "egg": "000011110111",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Red": "0010",
+      "Blue (In-Game)": "0011",
+      "Green (In-Game)": "0100",
+      "Yellow (In-Game)": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Tail Feathers": "01",
+      "Face Feathers": "10",
+      "Ear Feathers": "11"
+    }
+  },
+  "Lickatoad": {
+    "pinata": "000000101100",
+    "sweet": "011010100110",
+    "home": "001000011111",
+    "egg": "000011011111",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Green": "0010",
+      "Green (In-Game)": "0011",
+      "Red (In-Game)": "0100",
+      "Purple (In-Game)": "0101",
+      "Pink": "0110",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Horns": "01",
+      "Crests": "10",
+      "Webbed Legs": "11"
+    }
+  },
+  "Limeoceros": {
+    "pinata": "000001100101",
+    "sweet": "011011101111",
+    "home": "001001011001",
+    "egg": "000100011001",
+    "variants": {
+      "Mint Green": "0001",
+      "Blue (In-Game)": "0010",
+      "Pink (In-Game)": "0011",
+      "Gold (In-Game)": "0100",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Frill": "01",
+      "Second Horn": "10",
+      "Curly Horn": "11"
+    }
+  },
+  "Macaraccoon": {
+    "pinata": "000001100001",
+    "sweet": "011011000000",
+    "home": "001001010100",
+    "egg": "000100010100",
+    "variants": {
+      "Mint Green": "0001",
+      "Blue (In-Game)": "0010",
+      "Pink (In-Game)": "0011",
+      "Yellow (In-Game)": "0100",
+      "Solid Brown": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Whiskers": "01",
+      "Mohawk": "10",
+      "Face Lumps": "11"
+    }
+  },
+  "Mallowolf": {
+    "pinata": "000010000101",
+    "sweet": "011011001011",
+    "home": "001001111000",
+    "egg": "000100111000",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Blue": "0010",
+      "Yellow": "0011",
+      "Orange": "0100",
+      "Pink Yellow": "0101",
+      "Pink (In-Game)": "0110",
+      "Purple (In-Game)": "0111",
+      "Light Blue (In-Game)": "1000",
+      "Pale Blue": "1001",
+      "Red Eyes": "1010",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Small Mane": "01",
+      "Antler Ears": "10",
+      "Chin Fur": "11"
+    }
+  },
+  "Moojoo": {
+    "pinata": "000001001110",
+    "sweet": "011011011100",
+    "home": "001001000001",
+    "egg": "000100000001",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Red": "0010",
+      "Green (In-Game)": "0011",
+      "Blue (In-Game)": "0100",
+      "Yellow (In-Game)": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Single Antler": "01",
+      "Six Antlers": "10",
+      "Beard": "11"
+    }
+  },
+  "Moozipan": {
+    "pinata": "000000011000",
+    "sweet": "011010011000",
+    "home": "001000001011",
+    "egg": "000100111111",
+    "variants": {
+      "Mint Green": "0001",
+      "Yellow (In-Game)": "0010",
+      "Orange": "0011",
+      "Pink (In-Game)": "0100",
+      "White (In-Game)": "0101",
+      "Pale Green": "0110",
+      "Yellow": "0111",
+      "Solid White": "1000",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Curved Horns": "01",
+      "Longer Ears": "10",
+      "Ball on Tail": "11"
+    }
+  },
+  "Mothdrop": {
+    "pinata": "000001001111",
+    "sweet": "011010110100",
+    "home": "001001000010",
+    "egg": "000100000010",
+    "variants": {
+      "Mint Green": "0001",
+      "Blue (In-Game)": "0010",
+      "Orange Green": "0011",
+      "Yellow Green": "0100",
+      "Green (In-Game)": "0101",
+      "Yellow (In-Game)": "0110",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Curly Wings": "01",
+      "Long Tail": "10",
+      "Four Antennae": "11"
+    }
+  },
+  "Mousemallow": {
+    "pinata": "000001010000",
+    "sweet": "011010110101",
+    "home": "001001000011",
+    "egg": "000100000011",
+    "variants": {
+      "Mint Green": "0001",
+      "Pink": "0010",
+      "Orange": "0011",
+      "Blue (In-Game)": "0100",
+      "Green (In-Game)": "0101",
+      "Solid Purple": "0110",
+      "Yellow (In-Game)": "0111",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Tail Disc": "01",
+      "Black Nose": "10",
+      "Big Whiskers": "11"
+    }
+  },
+  "Newtgat": {
+    "pinata": "000001010001",
+    "sweet": "011010110110",
+    "home": "001001000100",
+    "egg": "000100000100",
+    "variants": {
+      "Mint Green": "0001",
+      "Orange (In-Game)": "0010",
+      "Pink (In-Game)": "0011",
+      "Purple": "0100",
+      "Blue (In-Game)": "0101",
+      "Solid Lilac": "0110",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Extra Tail Fin": "01",
+      "Large Tail Fin": "10",
+      "Whiskers": "11"
+    }
+  },
+  "Orange Flutterscotch": {
+    "pinata": "000001010011",
+    "sweet": "011010110111",
+    "home": "000111111111",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Orange": "0010",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Curly Nose": "01",
+      "Tail": "10",
+      "Small Wings": "11"
+    }
+  },
+  "Parmadillo": {
+    "pinata": "000000010011",
+    "sweet": "011011101001",
+    "home": "001000000100",
+    "egg": "000010111001",
+    "variants": {
+      "Mint Green": "0001",
+      "Pale Blue Green": "0010",
+      "Yellow": "0011",
+      "White (In-Game)": "0100",
+      "Pink (In-Game)": "0101",
+      "Yellow (In-Game)": "0110",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Face Bumps": "01",
+      "Blunt Horns": "10",
+      "Shell Bumps": "11"
+    }
+  },
+  "Parrybo": {
+    "pinata": "000001010111",
+    "sweet": "011010111000",
+    "home": "001001001010",
+    "egg": "000100001010",
+    "variants": {
+      "Mint Green": "0001",
+      "Yellow (In-Game)": "0010",
+      "Pale Blue": "0011",
+      "Green (In-Game)": "0100",
+      "Blue (In-Game)": "0101",
+      "Solid Red": "0110",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Curly Tail": "01",
+      "Larger Crest": "10",
+      "Wooden Leg": "11"
+    }
+  },
+  "Peckanmix": {
+    "pinata": "000001010110",
+    "sweet": "011011101110",
+    "home": "001001001001",
+    "egg": "000100001100",
+    "variants": {
+      "Mint Green": "0001",
+      "Green (In-Game)": "0010",
+      "Light Blue White": "0011",
+      "Light Blue": "0100",
+      "Orange": "0101",
+      "Orange (In-Game)": "0110",
+      "Pink (In-Game)": "0111",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Big Feathers": "01",
+      "Three Discs": "10",
+      "Wild Feathers": "11"
+    }
+  },
+  "Pengum": {
+    "pinata": "000001011001",
+    "sweet": "011011011110",
+    "home": "001001001100",
+    "egg": "000100001011",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Red": "0010",
+      "Yellow (In-Game)": "0011",
+      "Purple (In-Game)": "0100",
+      "Red (In-Game)": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Whiskers": "01",
+      "Mohawk Crest": "10",
+      "Wing Feathers": "11"
+    }
+  },
+  "Pieena": {
+    "pinata": "000000111101",
+    "sweet": "011011100011",
+    "home": "001000110001",
+    "egg": "000011110001",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Red": "0010",
+      "Orange (In-Game)": "0011",
+      "Blue (In-Game)": "0100",
+      "Purple (In-Game)": "0101",
+      "Pink": "0110",
+      "Yellow": "0111",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Larger Ears": "01",
+      "Fangs": "10",
+      "Shark Fin": "11"
+    }
+  },
+  "Pigxie": {
+    "pinata": "000000101010",
+    "sweet": "011010100100",
+    "home": "001000011101",
+    "egg": "000011011101",
+    "variants": {
+      "Mint Green": "0001",
+      "Yellow": "0010",
+      "Orange": "0011",
+      "Pale Pink": "0100",
+      "Fuchsia (In-Game)": "0101",
+      "Purple": "0110",
+      "Blue": "0111",
+      "Blue (In-Game)": "1000",
+      "Green (In-Game)": "1001",
+      "Pale Green White": "1010",
+      "Solid Purple": "1011",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Single Tusk": "01",
+      "Longer Ears": "10",
+      "Face Feathers": "11"
+    }
+  },
+  "Pink Flutterscotch": {
+    "pinata": "000001011101",
+    "sweet": "011010111100",
+    "home": "000111111111",
+    "variants": {
+      "Mint Green": "0001",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Curly Nose": "01",
+      "Tail": "10",
+      "Small Wings": "11"
+    }
+  },
+  "Polollybear": {
+    "pinata": "000001011000",
+    "sweet": "011011011101",
+    "home": "001001001011",
+    "egg": "000100010000",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Red": "0010",
+      "Yellow (In-Game)": "0011",
+      "Pink (In-Game)": "0100",
+      "Green (In-Game)": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Diamond Tail": "01",
+      "Big Jaw": "10",
+      "Big Ears": "11"
+    }
+  },
+  "Ponocky": {
+    "pinata": "000001011110",
+    "sweet": "011010111101",
+    "home": "001001010001",
+    "egg": "000100010001",
+    "variants": {
+      "Mint Green": "0001",
+      "Pink (In-Game)": "0010",
+      "Blue (In-Game)": "0011",
+      "White (In-Game)": "0100",
+      "Solid Yellow": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Yellow Tail": "01",
+      "Big Ears": "10",
+      "Multiple Tails": "11"
+    }
+  },
+  "Pretztail": {
+    "pinata": "000000101011",
+    "sweet": "011010100101",
+    "home": "001000011110",
+    "egg": "000011011110",
+    "variants": {
+      "Mint Green": "0001",
+      "Pink (In-Game)": "0010",
+      "Pale Pink": "0011",
+      "Yellow": "0100",
+      "Green (In-Game)": "0101",
+      "Blue (In-Game)": "0110",
+      "Solid Red": "0111",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Horns": "01",
+      "Split Ears": "10",
+      "Tail Bumps": "11"
+    }
+  },
+  "Profitamole": {
+    "pinata": "000001001011",
+    "sweet": "011010110010",
+    "home": "001000111110",
+    "egg": "000011111110",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Orange": "0010",
+      "Pink (In-Game)": "0011",
+      "Green (In-Game)": "0100",
+      "Blue (In-Game)": "0101",
+      "Orange": "0110",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Long Ears": "01",
+      "Whiskers": "10",
+      "Fluffy Tail": "11"
+    }
+  },
+  "Pudgeon": {
+    "pinata": "000001011011",
+    "sweet": "011010111010",
+    "home": "001001001110",
+    "egg": "000100001110",
+    "variants": {
+      "Mint Green": "0001",
+      "Yellow": "0010",
+      "Orange": "0011",
+      "Pink": "0100",
+      "Purple": "0101",
+      "Purple (In-Game)": "0110",
+      "Blue (In-Game)": "0111",
+      "Green (In-Game)": "1000",
+      "Solid Purple": "1001",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Horns": "01",
+      "Eye Feathers": "10",
+      "Head Feathers": "11"
+    }
+  },
+  "Purple Flutterscotch": {
+    "pinata": "000001011111",
+    "sweet": "011010111110",
+    "home": "000111111111",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Lilac": "0010",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Curly Nose": "01",
+      "Tail": "10",
+      "Small Wings": "11"
+    }
+  },
+  "Quackberry": {
+    "pinata": "000000100010",
+    "sweet": "011010011111",
+    "home": "001000010101",
+    "egg": "000011010101",
+    "variants": {
+      "Mint Green": "0001",
+      "Orange": "0010",
+      "Red": "0011",
+      "Purple": "0100",
+      "Light Blue": "0101",
+      "Blue (In-Game)": "0110",
+      "Orange (In-Game)": "0111",
+      "Pink (In-Game)": "1000",
+      "Light Pink": "1001",
+      "Solid Green": "1010",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Flame Hair": "01",
+      "Neck Frill": "10",
+      "Tail Feathers": "11"
+    }
+  },
+  "Raisant": {
+    "pinata": "000000000011",
+    "sweet": "011010000111",
+    "home": "000111110110",
+    "egg": "000010111000",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Red": "0010",
+      "Blue (In-Game)": "0011",
+      "Pink (In-Game)": "0100",
+      "Yellow (In-Game)": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Curved Antennae": "01",
+      "Single Horn": "10",
+      "Ball on Antennae": "11"
+    }
+  },
+  "Rashberry": {
+    "pinata": "000001011010",
+    "sweet": "011010111001",
+    "home": "001001001101",
+    "egg": "000100001101",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Pink": "0010",
+      "Purple (In-Game)": "0011",
+      "Green (In-Game)": "0100",
+      "Red (In-Game)": "0101",
+      "Purple": "0110",
+      "Purple Pink": "0111",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Tusks": "01",
+      "Long Nose": "10",
+      "Six Ears": "11"
+    }
+  },
+  "Red Flutterscotch": {
+    "pinata": "000001100100",
+    "sweet": "011011000001",
+    "home": "000111111111",
+    "egg": "000100010111",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Red": "0010",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Curly Nose": "01",
+      "Tail": "10",
+      "Small Wings": "11"
+    }
+  },
+  "Reddhott": {
+    "pinata": "000000100111",
+    "sweet": "011010100010",
+    "home": "001000011010",
+    "egg": "000011011010",
+    "variants": {
+      "Mint Green": "0001",
+      "Blue (In-Game)": "0010",
+      "Pink (In-Game)": "0011",
+      "Red (In-Game)": "0100",
+      "Pink Fire": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Larger Wings": "01",
+      "Back Spikes": "10",
+      "Neck Frill": "11"
+    }
+  },
+  "Roario": {
+    "pinata": "000001000101",
+    "sweet": "011010110000",
+    "home": "001000111000",
+    "egg": "000011111000",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Yellow": "0010",
+      "Yellow (In-Game)": "0011",
+      "Yellow": "0100",
+      "Pink (In-Game)": "0101",
+      "Pink": "0110",
+      "Blue (In-Game)": "0111",
+      "Blue": "1000",
+      "Pale Green": "1001",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Ball on Tail": "01",
+      "Horn": "10",
+      "Three Tails": "11"
+    }
+  },
+  "Robean": {
+    "pinata": "000001100111",
+    "sweet": "011011011111",
+    "home": "001001011010",
+    "egg": "000100011000",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Red": "0010",
+      "Purple (In-Game)": "0011",
+      "Blue (In-Game)": "0100",
+      "Orange (In-Game)": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Crest": "01",
+      "Tail Feathers": "10",
+      "Feather Whiskers": "11"
+    }
+  },
+  "S'morepion": {
+    "pinata": "000001101101",
+    "sweet": "011011100101",
+    "home": "001001100001",
+    "egg": "000100011110",
+    "variants": {
+      "Mint Green": "0001",
+      "Purple (In-Game)": "0010",
+      "Orange (In-Game)": "0011",
+      "White (In-Game)": "0100",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Curly Stinger": "01",
+      "Four Stingers": "10",
+      "Large Claw": "11"
+    }
+  },
+  "Salamango": {
+    "pinata": "000000101000",
+    "sweet": "011010100011",
+    "home": "001000011011",
+    "egg": "000011011011",
+    "variants": {
+      "Mint Green": "0001",
+      "Yellow (In-Game)": "0010",
+      "Orange": "0011",
+      "Dark Orange": "0100",
+      "Pink": "0101",
+      "Pale Pink": "0110",
+      "White (In-Game)": "0111",
+      "Green (In-Game)": "1000",
+      "Solid Red": "1001",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Bigger Legs": "01",
+      "Tummy Patterns": "10",
+      "Pointy Nose": "11"
+    }
+  },
+  "Sarsgorilla": {
+    "pinata": "000000110101",
+    "sweet": "011011101011",
+    "home": "001000101000",
+    "egg": "000011101000",
+    "variants": {
+      "Mint Green": "0001",
+      "Red (In-Game)": "0010",
+      "White (In-Game)": "0011",
+      "Green (In-Game)": "0100",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Tail": "01",
+      "Back Mohawk": "10",
+      "Pointy Ears": "11"
+    }
+  },
+  "Shellybean": {
+    "pinata": "000010011111",
+    "sweet": "011011010110",
+    "home": "001001111110",
+    "egg": "000101000000",
+    "variants": {
+      "Mint Green": "0001",
+      "Yellow (In-Game)": "0010",
+      "Red": "0011",
+      "Pink": "0100",
+      "Purple": "0101",
+      "Blue (In-Game)": "0110",
+      "Green (In-Game)": "0111",
+      "Solid Yellow": "1000",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Square Shell": "01",
+      "Nose Horn": "10",
+      "Long Ears": "11"
+    }
+  },
+  "Sherbat": {
+    "pinata": "000000000110",
+    "sweet": "011010001001",
+    "home": "000111111001",
+    "egg": "000010111011",
+    "variants": {
+      "Mint Green": "0001",
+      "Blue": "0010",
+      "Red (In-Game)": "0011",
+      "Light Blue (In-Game)": "0100",
+      "Green (In-Game)": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Curly Wings": "01",
+      "Webbed Ears": "10",
+      "Head Bumps": "11"
+    }
+  },
+  "Smelba": {
+    "pinata": "000000010001",
+    "sweet": "011011110000",
+    "home": "001001100110",
+    "egg": "000100100000",
+    "variants": {
+      "Mint Green": "0001",
+      "Orange (In-Game)": "0010",
+      "Blue Green (In-Game)": "0011",
+      "Purple (In-Game)": "0100",
+      "Pale Green Pink": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Big Ears": "01",
+      "Longer Nose": "10",
+      "Antlers": "11"
+    }
+  },
+  "Sparrowmint": {
+    "pinata": "000001110000",
+    "sweet": "011011000100",
+    "home": "001001100011",
+    "egg": "000100100011",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Tan": "0010",
+      "Purple (In-Game)": "0011",
+      "Pink (In-Game)": "0100",
+      "Green (In-Game)": "0101",
+      "Blue": "0110",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Horns": "01",
+      "Tail Crest": "10",
+      "Saw-like Wings": "11"
+    }
+  },
+  "Squazzil": {
+    "pinata": "000001110010",
+    "sweet": "011011000110",
+    "home": "001001100101",
+    "egg": "000100100101",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Yellow": "0010",
+      "Pink (In-Game)": "0011",
+      "Green (In-Game)": "0100",
+      "Purple (In-Game)": "0101",
+      "Dark Orange": "0110",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Buck Teeth": "01",
+      "Bigger Nose": "10",
+      "Bigger Ears": "11"
+    }
+  },
+  "Swanana": {
+    "pinata": "000001110111",
+    "sweet": "011011000111",
+    "home": "001001101010",
+    "egg": "000100101010",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid White": "0010",
+      "White": "0011",
+      "Pink (In-Game)": "0100",
+      "Pink": "0101",
+      "Purple (In-Game)": "0110",
+      "Green (In-Game)": "0111",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Crest": "01",
+      "Neck Frill": "10",
+      "Tail Feathers": "11"
+    }
+  },
+  "Sweetle": {
+    "pinata": "000010001100",
+    "sweet": "011011100111",
+    "home": "001001011110",
+    "egg": "000100011100",
+    "variants": {
+      "Mint Green": "0001",
+      "Orange (In-Game)": "0010",
+      "White (In-Game)": "0011",
+      "Pink (In-Game)": "0100",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Ears": "01",
+      "Mouth Horns": "10",
+      "Mouth Pincers": "11"
+    }
+  },
+  "Sweetooth": {
+    "pinata": "000000001000",
+    "sweet": "011010001011",
+    "home": "000111111011",
+    "egg": "000010111101",
+    "variants": {
+      "Mint Green": "0001",
+      "Pink (In-Game)": "0010",
+      "Yellow (In-Game)": "0011",
+      "Blue (In-Game)": "0100",
+      "Solid Brown": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Floppy Ears": "01",
+      "Stubby Antennae": "10",
+      "Wider Tail": "11"
+    }
+  },
+  "Syrupent": {
+    "pinata": "000000110110",
+    "sweet": "011010101010",
+    "home": "001000101001",
+    "egg": "000011101001",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Green": "0010",
+      "Gold (In-Game)": "0011",
+      "Orange": "0100",
+      "Pink (In-Game)": "0101",
+      "Blue (In-Game)": "0110",
+      "Aqua": "0111",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Head Frill": "01",
+      "Ball on Tail": "10",
+      "Neck Frill": "11"
+    }
+  },
+  "Taffly": {
+    "pinata": "000000001011",
+    "sweet": "011010001110",
+    "home": "000111111110",
+    "egg": "000011000000",
+    "variants": {
+      "Mint Green": "0001",
+      "Green (In-Game)": "0010",
+      "Lime Green": "0011",
+      "Yellow (In-Game)": "0100",
+      "Pink": "0101",
+      "Purple (In-Game)": "0110",
+      "Solid Blue": "0111",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Curly Tail": "01",
+      "Bigger Nose": "10",
+      "Wing Spikes": "11"
+    }
+  },
+  "Tartridge": {
+    "pinata": "000001101111",
+    "sweet": "011011110001",
+    "home": "001001100010",
+    "egg": "000100100001",
+    "variants": {
+      "Mint Green": "0001",
+      "Blue (In-Game)": "0010",
+      "Orange (In-Game)": "0011",
+      "Pink (In-Game)": "0100",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Long Beak": "01",
+      "Tail Feathers": "10",
+      "Head Feathers": "11"
+    }
+  },
+  "Tigermisu": {
+    "pinata": "000001111001",
+    "sweet": "011011110010",
+    "home": "001001101011",
+    "egg": "000100101011",
+    "variants": {
+      "Mint Green": "0001",
+      "Yellow (In-Game)": "0010",
+      "White (In-Game)": "0011",
+      "Pink (In-Game)": "0100",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Fangs": "01",
+      "Ball on Tail": "10",
+      "Mane": "11"
+    }
+  },
+  "Twingersnap": {
+    "pinata": "000000001101",
+    "sweet": "011010010000",
+    "home": "001000000000",
+    "egg": "000011000010",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Green": "0010",
+      "Yellow": "0011",
+      "Orange (In-Game)": "0100",
+      "Pink (In-Game)": "0101",
+      "Pale Pink": "0110",
+      "Purple (In-Game)": "0111",
+      "Pale Blue": "1000",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Horns": "01",
+      "Mouth Frill": "10",
+      "Neck Bumps": "11"
+    }
+  },
+  "Vulchurro": {
+    "pinata": "000010000001",
+    "sweet": "011011101000",
+    "home": "001001110100",
+    "egg": "000100110110",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Red": "0010",
+      "Pink (In-Game)": "0011",
+      "Blue (In-Game)": "0100",
+      "Green (In-Game)": "0101",
+      "Pink": "0110",
+      "Green": "0111",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Longer Beak": "01",
+      "Larger Tail": "10",
+      "Head Feathers": "11"
+    }
+  },
+  "Walrusk": {
+    "pinata": "000010000010",
+    "sweet": "011011110100",
+    "home": "001001110110",
+    "egg": "000100110101",
+    "variants": {
+      "Mint Green": "0001",
+      "Green (In-Game)": "0010",
+      "Purple (In-Game)": "0011",
+      "Pink (In-Game)": "0100",
+      "Orange": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Ball on Tail": "01",
+      "Head Stubs": "10",
+      "Ear Stubs": "11"
+    }
+  },
+  "Whirlm": {
+    "pinata": "000010000111",
+    "sweet": "011011001100",
+    "home": "001001111010",
+    "egg": "000100111010",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Orange": "0010",
+      "Purple (In-Game)": "0011",
+      "Pink (In-Game)": "0100",
+      "Green (In-Game)": "0101",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Back Bumps": "01",
+      "Two Antennae": "10",
+      "Frills": "11"
+    }
+  },
+  "White Flutterscotch": {
+    "pinata": "000010000011",
+    "sweet": "011011001010",
+    "home": "000111111111",
+    "egg": "000100110111",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid White": "0010",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Curly Nose": "01",
+      "Tail": "10",
+      "Small Wings": "11"
+    }
+  },
+  "Yellow Flutterscotch": {
+    "pinata": "000010001001",
+    "sweet": "011011001101",
+    "home": "000111111111",
+    "variants": {
+      "Mint Green": "0001",
+      "Solid Yellow": "0010",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Curly Nose": "01",
+      "Tail": "10",
+      "Small Wings": "11"
+    }
+  },
+  "Zumbug": {
+    "pinata": "000010001010",
+    "sweet": "011011001110",
+    "home": "001001111101",
+    "egg": "000100111101",
+    "variants": {
+      "Mint Green": "0001",
+      "Blue (In-Game)": "0010",
+      "Orange (In-Game)": "0011",
+      "Pink (In-Game)": "0100",
+      "Solid Purple": "0101",
+      "Dark Purple": "0110",
+      "Black": "1111"
+    },
+    "wildcards": {
+      "Ball on Tail": "01",
+      "Curly Tail": "10",
+      "Four Ears": "11"
+    }
+  }
+}
