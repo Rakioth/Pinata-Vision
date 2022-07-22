@@ -1,5 +1,5 @@
 # Piñata Vision Decoder & Encoder
-`pv_decoder.py` is a decoder script for identifying data encoded in a Piñata Vision barcode.
+`pv_decoder.py` is a decoder script for identifying data encoded in a Piñata Vision barcode.<br />
 `pv_encoder.py` is a encoder script for generating Piñata Vision barcodes from the data given.
 
 # About Piñata Vision
